@@ -17,7 +17,7 @@ The codebase includes:
 - `efficient_updates.py`
   Efficient Gram-form objective updates, coordinate search, and active-set alg.
 
-- `Project/eval.py`
+- `eval.py`
   Evaluation script for perplexity and zero-shot accuracy.
 
 ## Running Experiments
